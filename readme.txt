@@ -8,8 +8,8 @@ Author URI:
 Author: PootlePress
 Donate link:
 Tags:
-Requires at least: 4.0.0
-Tested up to: 4.0.0
+Requires at least: 4.1.0
+Tested up to: 4.1.0
 Stable tag: 1.0.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -17,6 +17,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 == Description ==
 
 This plugin allows you to hide option sections from the WordPress Customizer. As more and more plugins are using the WordPress Customizer you will find this tool useful to turn off and on option sections that you do not use very often.
+[vimeo http://vimeo.com/117739595]
 
 == Usage ==
 
@@ -44,11 +45,11 @@ We encourage everyone to contribute their ideas, thoughts and code snippets. Thi
 == Upgrade Notice ==
 
 = 1.0.0 =
-* XXXX-XX-XX
+* 2015-23-01
 * Initial release. Woo!
 
 == Changelog ==
 
 = 1.0.0 =
-* XXXX-XX-XX
+* 2015-23-01
 * Initial release. Woo!
